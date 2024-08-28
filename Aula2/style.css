@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+.flex{
+    background-color: cadetblue;
+    height: 300px;
+    width: 400px;
+    border-radius: 20%;
+}
+
+form{
+    text-align: center;
+}
+
+h1{
+    align-items: center;
+}
